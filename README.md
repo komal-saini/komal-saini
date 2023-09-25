@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Komal Saini, a fourth-year computer science student at the University of Toronto. I previously interned at LinkedIn and Sentry as a software engineer. I'm a passionate backend developer and I'm interested in working in fast-paced, high-impact envrionments. 
+
+I'm currently seeking Spring 2024 New Grad opportunities! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sainikomal/).
+
 <!--
 **komal-saini/komal-saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
