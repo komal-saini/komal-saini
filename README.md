@@ -2,7 +2,7 @@
 
 I'm Komal Saini, a fourth-year computer science student at the University of Toronto. I previously interned at [LinkedIn](https://www.linkedin.com/) and [Sentry](https://sentry.io) as a software engineer. I'm a passionate backend developer and I'm interested in working in fast-paced, high-impact envrionments. 
 
-Since Sentry is open-soruce, you can find some of my [PRs](https://github.com/getsentry/sentry/pull/36871) for my intern project on Sentry's [GitHub](https://github.com/getsentry)! 
+Since Sentry is open-source, you can find some of my [PRs](https://github.com/getsentry/sentry/pull/36871) for my intern project on Sentry's [GitHub](https://github.com/getsentry)! 
 
 I'm currently seeking Spring 2024 New Grad opportunities! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sainikomal/).
 
